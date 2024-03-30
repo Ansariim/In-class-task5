@@ -61,6 +61,7 @@ body{
     padding: 1.875em;
     display: flex;
     flex-direction: column;
+    background-color:red;
 }
 .structural{
     margin: 1rem;
