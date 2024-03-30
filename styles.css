@@ -39,7 +39,8 @@ nav a:hover{
     border: cornsilk;
 }
 aside{
-    margin-right: 10px;
+
+    margin-left: 10px;
     margin-bottom: 20px;
     flex: 1130%;
     height: auto;
@@ -48,7 +49,7 @@ aside{
     padding-bottom: 23.625em;
 }
 main{
-    margin-left: 10px;
+    margin-right: 10px;
     margin-bottom: 20px;
     flex: 2170%;
     height: auto;
